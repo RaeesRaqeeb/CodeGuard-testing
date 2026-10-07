@@ -1,4 +1,4 @@
-# 🎓 GB Career Pilot - Backend
+# 🎓 GB Career Pilot - Backend -Deliberately vulnerable test lab with dummy data for FYP security evaluation.
 
 <div align="center">
 
